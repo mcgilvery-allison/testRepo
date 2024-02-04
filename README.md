@@ -20,9 +20,9 @@ at first, I was going to have it be to where I would use sheets' IMPORTRANGE fun
 
 however, I ran into a couple of issues with this method:
 
-	there would't be an easy way to expand the range of the data without, again, some user-side jank
+- there would't be an easy way to expand the range of the data without, again, some user-side jank
  
- 	I would also have to manually give each person view access to the original document or something for it to export the data from (but they'd probably already have that b/c of having the template, but ehh)
+- I would also have to manually give each person view access to the original document or something for it to export the data from (but they'd probably already have that b/c of having the template, but ehh)
   
 I then thought well what if I used a .csv file with the IMPORTDATA function to solve the first issue, because the csv file itself would determine how many cells needed to be taken up in the spreadsheet (without having to keep copying thousands of empty cells)
 
