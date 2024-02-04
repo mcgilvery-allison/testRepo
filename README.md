@@ -4,11 +4,11 @@ If you use the following:
 
 in a cell in google sheets, it'll automatically update (though not instantly) when changes are made the the data.csv file in this repository
 
-
+-
 
 this is just for a theoretical game though and there won't be anything useful as of current
 
-
+-
 
 the idea here was to make a set of files in google sheets that I could have be effectively a template that I could have friends make a copy of and they'd be able to play a game I made (almost) entirely in google sheets
 
